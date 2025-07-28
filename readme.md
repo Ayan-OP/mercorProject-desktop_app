@@ -1,6 +1,6 @@
 # Mercor Time Tracker - Desktop Application
 
-This is the desktop client for the T3 Time Tracker system. It's a native application built with Python and PySide6 that allows employees to securely log in, view their assigned work, and track their time.
+This is the desktop client for the mercor Time Tracker system. It's a native application built with Python and PySide6 that allows employees to securely log in, view their assigned work, and track their time.
 
 ---
 
@@ -34,7 +34,7 @@ The application is designed to be responsive and efficient by separating its cor
 ### Prerequisites
 
 * Python 3.10+
-* The T3 Backend API must be running.
+* The mercor Backend API must be running.
 
 ### 1. Clone the Repository
 
