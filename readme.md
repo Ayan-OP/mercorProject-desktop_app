@@ -76,7 +76,7 @@ pip install pyinstaller
 ### 2. Run the Build Command
 - From the ```desktop_app``` directory, run the following command in your terminal:
 ```
-pyinstaller --onefile --windowed --name "T3-Tracker" main.py
+pyinstaller --onefile --windowed --name "mercor-Tracker" main.py
 ```
 - ```--onefile```: Bundles everything into a single executable.
 
